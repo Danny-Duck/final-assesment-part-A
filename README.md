@@ -2,7 +2,23 @@
 
 The Purpose of our app is to create a platform for small business owners to establish an online presence
 
-# functionality/Features
+# Features/Functionality
+
+The final application should have the following features
+- Account registration - User should be able to sign up for a new account
+- Log in functionality - Registered User should be able to log in to their accounts
+- Create a restaurant web page - A user should be able to create add a new restaurant
+- Create/Add a menu to a restaurant - Users should have the ability to add one or more menus to their restaurants
+- Create/Add items to menus - Users should be able to add items to their menus
+- Tag items - Items should be able to have one or several different tags such as dietary information like vegan, gluten free etc.
+- Add ingredients to items - A user should be able to add ingredients to their items
+- Different sizes or prices - A user should be able to have different sizes of item that can have different prices. For examples glass of wine or bottle of wine.
+- Pick different themes for restaurants, menus and items -  Users should be able to pick different layouts/themes for their restaurant page as well as the menus and items
+- Pick different colours and styles for restaurant, menus and items - A user should be able to customize the colours, fonts and styles of their restaurant page, menu sections and each item in their menus.
+- Add extra contact information - A user should be able to add additional information about their restaurant such as google maps link, phone number, social media or delivery service.
+- Edit their webpage - Users should be able to edit their restaurant web page including themes, styles and information.
+- Unique URls - Restaurants should have unique web urls
+- View their webpage - Anybody should be able to view the restaurants webpage
 
 # Target Audience
 
