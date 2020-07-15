@@ -6,6 +6,10 @@ The Purpose of our app is to create a platform for small business owners to esta
 
 # Target Audience
 
+The target audience for this project is aimed specifically at small restaurant owners who may not have their own website or web presence. This service is to give those small business owner an opportunity to have an customizable webpage to show case their restaurant. This site could also be suitable for larger restaurant owners who want a quick and easy way to get some online presence without having to build their own website.
+
+It will also target everyday restaurants customer who are looking for more information about local smaller restaurants online and want to see their menu offerings as well as filter through their menu depending on different criterias.0
+
 # Tech Stack
 
 Backend Language/Framework
