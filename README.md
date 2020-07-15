@@ -1,5 +1,7 @@
 # Purpose
 
+The Purpose of our app is to create a platform for small business owners to establish an online presence
+
 # functionality/Features
 
 # Target Audience
@@ -54,3 +56,13 @@ My name is Angela Merkel, I’ve come to a new area of my city and am craving ba
 My name is Austin Powers, I have a favourite restaurant in my town and I wish to know more about their menu and the gluten free options available. I want to visit their “final project name” site, I want to organise the menu prioritising gluten free.
 
 My name is The Zuck, I want to find out what my local Chilean restaurant offers for take away and their phone number. I also want to be able to find their vegan options available for takeaway.
+
+# Dataflow Diagram
+![Dataflow Diagram](./resources/DatafFlowDiagram.png)
+
+# Entity Relationship Diagram
+![ERD](./resources/ERD.png)
+
+# Application Architecture Diagram
+
+![Application Architecture Diagram](./resources/AppArchitectureDiagram.png)
