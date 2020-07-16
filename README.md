@@ -1,10 +1,17 @@
 # Purpose
 
-The Purpose of our app is to create a platform for small business owners to establish an online presence
+The Purpose of our app is to create a platform for small restaurant owners to establish an online presence.
+
+With "final project name" the restaurant owner will be able to create a simple page with general information about their business to have a google page ranking.
+
+Currently the skew of restaurant online representation is large and confusing. Some opt for just a google maps listing, having only opening hours, address and contact information. Others options are a facebook page, which offers less customisation, or a full fledges wix website which can be time consuming and confusing.
+
+We aim to solve this problem of multiple identities, where businesses can collected all their information in one place, while linking already established identities, such as Instagram, UberEats and or Google Maps.
 
 # Features/Functionality
 
 The final application should have the following features
+
 - Account registration - User should be able to sign up for a new account
 - Log in functionality - Registered User should be able to log in to their accounts
 - Create a restaurant web page - A user should be able to create add a new restaurant
@@ -13,7 +20,7 @@ The final application should have the following features
 - Tag items - Items should be able to have one or several different tags such as dietary information like vegan, gluten free etc.
 - Add ingredients to items - A user should be able to add ingredients to their items
 - Different sizes or prices - A user should be able to have different sizes of item that can have different prices. For examples glass of wine or bottle of wine.
-- Pick different themes for restaurants, menus and items -  Users should be able to pick different layouts/themes for their restaurant page as well as the menus and items
+- Pick different themes for restaurants, menus and items - Users should be able to pick different layouts/themes for their restaurant page as well as the menus and items
 - Pick different colours and styles for restaurant, menus and items - A user should be able to customize the colours, fonts and styles of their restaurant page, menu sections and each item in their menus.
 - Add extra contact information - A user should be able to add additional information about their restaurant such as google maps link, phone number, social media or delivery service.
 - Edit their webpage - Users should be able to edit their restaurant web page including themes, styles and information.
@@ -30,32 +37,32 @@ It will also target everyday restaurants customer who are looking for more infor
 
 Backend Language/Framework
 
-    Ruby on Rails
+- Ruby on Rails
 
 Front End Framework
 
-    React
+- React
 
 Database
 
-    PostgreSQL
+- PostgreSQL
 
 Image Storage
 
-    AWS S3 Buckets
+- AWS S3 Buckets
 
 External APIs
 
-    Stripe
+- Stripe
 
 Version Control/Repo Hosting
 
-    Git/Github
+- Git/Github
 
 Deployment Services
 
-    Heroku
-    Netlify
+- Heroku
+- Netlify
 
 # User Stories
 
@@ -78,9 +85,11 @@ My name is Austin Powers, I have a favourite restaurant in my town and I wish to
 My name is The Zuck, I want to find out what my local Chilean restaurant offers for take away and their phone number. I also want to be able to find their vegan options available for takeaway.
 
 # Dataflow Diagram
+
 ![Dataflow Diagram](./resources/DatafFlowDiagram.png)
 
 # Entity Relationship Diagram
+
 ![ERD](./resources/ERD.png)
 
 # Application Architecture Diagram
