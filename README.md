@@ -120,3 +120,88 @@ My name is The Zuck, I want to find out what my local Chilean restaurant offers 
 # Application Architecture Diagram
 
 ![Application Architecture Diagram](./resources/AppArchitectureDiagram.png)
+
+# Wireframes
+
+Below are the wireframes for this project, to better understand them the following legend has been provided.
+
+![Wire Frame Legend](./resources/wireframes/mobile/legend.png)
+
+As shown on the legend above image place holder are represented by large grey square, user input by grey rectangles with text and button by blue rounded rectangles.
+
+## Mobile
+
+![Landing Page](./resources/wireframes/mobile/Landing.png)
+
+![Login](./resources/wireframes/mobile/Login.png)
+
+![Sign Up](./resources/wireframes/mobile/CreateAccount.png)
+
+![Update Account](./resources/wireframes/mobile/UpdateAccount.png)
+
+![Account](./resources/wireframes/mobile/Account.png)
+
+![Create Restaurant](./resources/wireframes/mobile/CreateRestaurant.png)
+
+![Pick Menu Theme](./resources/wireframes/mobile/PickMenuTheme.png)
+
+![Pick Item Theme](./resources/wireframes/mobile/PickItemTheme.png)
+
+![Create Restaurant](./resources/wireframes/mobile/CreateRestaurant.png)
+
+![Add Item](./resources/wireframes/mobile/AddItem.png)
+
+![Filter Options Menu](./resources/wireframes/mobile/FilterOptionsMenu.png)
+
+![Menu View](./resources/wireframes/mobile/MenuView.png)
+
+![Filter Options Menu 2](./resources/wireframes/mobile/FilterOptionsMenu-1.png)
+
+
+## Desktop
+
+![Landing Page](./resources/wireframes/desktop/Landing.png)
+
+![Create a restaurant](./resources/wireframes/desktop/CreateARestaurant.png)
+
+![Login](./resources/wireframes/desktop/Login.png)
+
+
+
+![RestuarantEditView](./resources/wireframes/desktop/RestaurantEditView.png)
+
+![RestuarantView](./resources/wireframes/desktop/RestaurantView.png)
+
+![User Dashboard](resources/wireframes/desktop/UserDashboard.png)
+
+![Create Account](./resources/wireframes/desktop/CreateAccount.png)
+
+## Custom templates
+
+Restaurant owners will be given three templates for their menus and menu items below are the wire frames that outline how these would look like both on mobile and desktop.
+
+![Menu Template 1](resources/wireframes/desktop/MenuTemplate1.png)
+
+![Menu Template 1](resources/wireframes/mobile/MenuTemplate1.png)
+
+![Menu Template 2](resources/wireframes/desktop/MenuTemplate2.png)
+
+![Menu Template 2](resources/wireframes/mobile/MenuTemplate2.png)
+
+![Menu Template 3](resources/wireframes/desktop/MenuTemplate3.png)
+
+![Menu Template 3](resources/wireframes/mobile/MenuTemplate3.png)
+
+Items template will look the same on both desktop and mobile
+
+![Item Template 1](./resources/wireframes/desktop/ItemTemplate1.png)
+
+![Item Template 2](./resources/wireframes/desktop/ItemTemplate2.png)
+
+![Item Template 3](./resources/wireframes/desktop/ItemTemplate3.png)
+
+This is what a web page may look like both on mobile and desktop after these templates has been applied.
+
+![Restaurant Mobile Template](resources/wireframes/Mobile/RestaurantTemplate.png)
+
+![Restaurant Desktop Template](resources/wireframes/desktop/Desktop-1.png)
